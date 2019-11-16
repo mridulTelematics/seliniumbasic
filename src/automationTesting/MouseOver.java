@@ -19,4 +19,5 @@ public class MouseOver {
 		driver.findElement(By.linkText("Analysis of Algorithms")).click();
 	}
 //Mouse
+	//Example
 }
