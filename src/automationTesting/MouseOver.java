@@ -18,5 +18,5 @@ public class MouseOver {
        action.moveToElement(driver.findElement(By.partialLinkText("Algo"))).build().perform();
 		driver.findElement(By.linkText("Analysis of Algorithms")).click();
 	}
-
+//Mouse
 }
